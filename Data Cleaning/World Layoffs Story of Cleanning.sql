@@ -10,7 +10,6 @@ CREATE TABLE layoffs_stagging LIKE layoffs;
 INSERT INTO  layoffs_stagging (SELECT * FROM layoffs);
 SELECT * FROM layoffs_stagging;
 
-
 -- Step one Duplicate 
 	-- CHECK for doublicate 
 	WITH duplicate_cte AS
