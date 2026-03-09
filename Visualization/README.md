@@ -7,7 +7,7 @@ This section of the project focuses on building an interactive **Tableau Dashboa
 The dashboard helps transform raw data into clear visual insights that allow users to understand trends in layoffs across different dimensions such as time, industry, company stage, and country.
 
 ## Dashoard Perview
-![World Layoffs Dashboard](images/dashboard.png)
+![World Layoffs Dashboard](Visualization/Dashboard.png)
 ---
 
 ## Tools Used
